@@ -10,13 +10,7 @@ Este é um sistema web de diagnóstico médico que ajuda os usuários a identifi
 - Resultado de diagnóstico: O sistema exibe a doença mais provável com base na análise dos sintomas.
 - Informações sobre medicamentos: O sistema fornece informações sobre medicamentos recomendados para o tratamento da doença diagnosticada.
 
-## Instalação
 
-Instruções de instalação do sistema.
-
-## Uso
-
-Instruções de uso do sistema.
 
 ## Contribuição
 
